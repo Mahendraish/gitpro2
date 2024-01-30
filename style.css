@@ -20,3 +20,55 @@ h1{
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+h2{
+    border: 2px solid gold;
+    border-radius: 3px;
+    color: rgb(0, 64, 33);
+    text-shadow: 5px 5px 5px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2:hover{
+    color: aliceblue;
+    background-color: chartreuse;
+    color: rgb(0, 64, 33);
+    text-shadow: 5px 5px 5px;
+    font-size: 40px;
+}
+h2:visited{
+    color: aliceblue;
+    background-color: rgb(255, 0, 251);
+    color: rgb(0, 64, 33);
+    text-shadow: 5px 5px 5px;
+    font-size: 40px;
+}
+h2:active{
+    color: aliceblue;
+    background-color: rgba(239, 252, 1, 0.966);
+    color: rgb(0, 64, 33);
+    text-shadow: 5px 5px 5px;
+    font-size: 40px;
+}
+
+button:hover{
+    color: aliceblue;
+    background-color: rgb(115, 151, 80);
+    color: rgb(0, 64, 33);
+    text-shadow: 5px 5px 5px;
+    font-size: 40px;
+}
+button:visited{
+    color: aliceblue;
+    background-color: rgb(196, 117, 195);
+    color: rgb(0, 64, 33);
+    text-shadow: 5px 5px 5px;
+    font-size: 40px;
+}
+hbutton2:active{
+    color: aliceblue;
+    background-color: rgba(131, 133, 103, 0.966);
+    color: rgb(0, 64, 33);
+    text-shadow: 5px 5px 5px;
+    font-size: 40px;
+}
