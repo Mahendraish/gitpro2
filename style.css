@@ -20,3 +20,33 @@ h1{
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+h1{
+    border: 2px solid gold;
+    border-radius: 3px;
+    color: rgb(0, 64, 33);
+    text-shadow: 5px 5px 5px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1:hover{
+    color: aliceblue;
+    background-color: gold;
+    color: rgb(0, 64, 33);
+    text-shadow: 5px 5px 5px;
+    font-size: 40px;
+}
+h1:visited{
+    color: aliceblue;
+    background-color: silver;
+    color: rgb(0, 64, 33);
+    text-shadow: 5px 5px 5px;
+    font-size: 40px;
+}
+h1:active{
+    color: aliceblue;
+    background-color: green;
+    color: rgb(0, 64, 33);
+    text-shadow: 5px 5px 5px;
+    font-size: 40px;
+}
